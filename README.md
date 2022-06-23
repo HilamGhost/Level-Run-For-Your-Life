@@ -16,10 +16,16 @@
 ⠀⠀⠘⠦⣀⠀⢀⡠⣆⣀⣠⠼⢀⡀⠴⠄⠚⠀⠀⠀⠀⠀
 ```
 --------------------------------------------------------------------------------------------------------------------------------------
+<pre>
+
 Level! : Run For Your Life is a backrooms fan game.
 
+[Itch.io link](https://hilamghost.itch.io/level-run)
+
 You can check my codes. All assets are game-ready assets.
+
 My purpose is create a portfolio and share my codes.
+</pre>
 
 ![alt text](https://img.itch.zone/aW1nLzkyNzUwMzYucG5n/original/zrx%2BQP.png)
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -32,11 +38,20 @@ Level ! consists of a long hallway, approximately ten kilometers in length, with
 
  --------------------------------------------------------------------------------------------------------------------------------------
 <h1>YOU MUST WALK 10 KILOMETER FOR ESCAPE THIS LEVEL</h1>
+<pre>
 
 Our goal is the run the 10 kilometers while “Smiler” chasing us. Press “Space” for vaulting. After that you can finish the game.
+
 All assets are game-ready assets.
+
 My first goal is making a portolio and show my coding style.
+</pre>
+
 
 <h2> Tips for Developers </h2>
+<pre>
+
 I used Singleton.
+
 I know I didn't use comments too much, this was my mistake sorry.
+</pre>
