@@ -18,9 +18,9 @@
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
-<p>Level! : Run For Your Life is a backrooms fan game.</p>
+<p>Level! : Run For Your Life is a backrooms fan game.</p> 
 
-<p href="https://hilamghost.itch.io/level-run">Itch.io link</p>
+<a href="https://hilamghost.itch.io/level-run">Itch.io link</a>
 
 <p>You can check my codes. All assets are game-ready assets.</p>
 
