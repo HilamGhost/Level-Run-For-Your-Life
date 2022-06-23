@@ -16,16 +16,16 @@
 ⠀⠀⠘⠦⣀⠀⢀⡠⣆⣀⣠⠼⢀⡀⠴⠄⠚⠀⠀⠀⠀⠀
 ```
 --------------------------------------------------------------------------------------------------------------------------------------
-<pre>
 
-Level! : Run For Your Life is a backrooms fan game.
 
-[Itch.io link](https://hilamghost.itch.io/level-run)
+<p>Level! : Run For Your Life is a backrooms fan game.</p>
 
-You can check my codes. All assets are game-ready assets.
+<p href="https://hilamghost.itch.io/level-run">Itch.io link</p>
 
-My purpose is create a portfolio and share my codes.
-</pre>
+<p>You can check my codes. All assets are game-ready assets.</p>
+
+<p>My purpose is create a portfolio and share my codes.</p>
+
 
 ![alt text](https://img.itch.zone/aW1nLzkyNzUwMzYucG5n/original/zrx%2BQP.png)
 --------------------------------------------------------------------------------------------------------------------------------------
